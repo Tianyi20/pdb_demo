@@ -2,6 +2,8 @@ A particle based dynamics based on warp.
 
 Differetiable particle based dynamics.
 
+![image](https://github.com/user-attachments/assets/c8b6b948-de0c-403e-8e9b-7c2f58b43c69)
+
 
 <video controls src="simulation.mp4" title="Title"></video>
 
